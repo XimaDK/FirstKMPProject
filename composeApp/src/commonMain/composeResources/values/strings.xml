@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">First KMP Project</string>
+
+    <!--START REGION WELCOME SCREEN -->
+    <string name="welcome_title">Welcome to KMP!</string>
+    <string name="welcome_description">This is my first multiplatform screen with Compose Multiplatform. It works on both Android and iOS!</string>
+    <string name="placeholder_text">Image placeholder</string>
+    <string name="get_started">Get Started</string>
+    <!--END REGION WELCOME SCREEN -->
+
+
+    <!--START REGION LOGIN SCREEN -->
+    <string name="login_title">Welcome Back!</string>
+    <string name="sign_in_title">Sign in to continue</string>
+    <string name="login_hint">Email or username</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Sign In</string>
+    <string name="sing_up">Sign Up</string>
+    <string name="dont_have_account">Don't have an account? </string>
+    <string name="forgot_password">Forgot password?</string>
+    <!--END REGION LOGIN SCREEN -->
+
+</resources>
